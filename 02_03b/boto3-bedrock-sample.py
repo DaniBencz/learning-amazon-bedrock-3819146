@@ -20,7 +20,7 @@ contentType = 'application/json'
 body = json.dumps({
   "inputText": prompt_data,
   "textGenerationConfig": {
-    "maxTokenCount": 1000,
+    "maxTokenCount": 500,
     # "temperature": 0.5,
     # "topP": 0.9
   }

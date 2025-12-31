@@ -1,5 +1,25 @@
 # Learning Amazon Bedrock
+
 This is the repository for the LinkedIn Learning course `Learning Amazon Bedrock`. The full course is available from [LinkedIn Learning][lil-course-url].
+
+# Setup
+
+- Open the dev container in VSCode
+- First install the virtual environment by running
+
+  `python -m venv venv`
+
+- Activate the virtual environment in Linux
+
+  `source venv/bin/activate`
+
+- Install dependencies
+
+  `pip install -r requirements.txt`
+
+- To run in VSCode, select correct Python interpreter
+
+  ctrl+shift+p -> Python: Select Interpreter
 
 ![lil-thumbnail-url]
 
@@ -11,14 +31,8 @@ Lee Assam
 
 Principal Cloud Technologist and Solution Architect Leader
 
-                            
-
 Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/lee-assam?u=104).
 
-
-
-[0]: # (Replace these placeholder URLs with actual course URLs)
-
+[0]: # "Replace these placeholder URLs with actual course URLs"
 [lil-course-url]: https://www.linkedin.com/learning/
 [lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQGeZZWDB8ySlQ/learning-public-crop_675_1200/0/1710533858658?e=2147483647&v=beta&t=9YTDxNEVEVHhMtOs4k_fEmMXOpwGOoPJYKb7a1sUcIA
-
