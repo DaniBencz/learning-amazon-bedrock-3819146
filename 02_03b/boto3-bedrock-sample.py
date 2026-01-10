@@ -12,6 +12,7 @@ Translation:
 """
 
 #Model specification
+# DEPRECATED!
 modelId = 'amazon.titan-text-express-v1'
 accept = 'application/json'
 contentType = 'application/json'
